@@ -4,7 +4,7 @@
 
 3 : pour ignorer les fichier pdf lors du push
 
-  * créer un fichir gitignore dans bash
+  * créer un fichier gitignore dans bash
   * ouvrir le fichier gitignore
   * rajouter la ligne *.pdf dans le fichier gitignore
 
