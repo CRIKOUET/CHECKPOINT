@@ -52,10 +52,11 @@ la couche 3 est la couche reseau
 9 : Dans la trame ethernet, qu'est-ce que le payload?
 
  C'est la charge utile, contenant les données de la couche supérieure (par exemple, une trame IP, des données d'application).
+ 
 10 : Pourquoi les classes IP sont remplacées par le CIDR ?
 
-c'est pour une  meilleure Utilisation des Adresses.
-CIDR permet de diviser les blocs d'adresses en sous-réseaux plus petits,permettant aiisi une plus grande exploitation et moins de gaspillage des adresses des ipv4
+c'est pour une  meilleure utilisationet gestion  des Adresses IP en IPV4.
+CIDR permet de diviser les blocs d'adresses en sous-réseaux plus petits,permettant aiisi une plus grande exploitation et moins de gaspillage des adresses des IPV4
 
    
 
