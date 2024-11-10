@@ -60,6 +60,6 @@ CIDR permet de diviser les blocs d'adresses en sous-réseaux plus petits,permett
 
    
 
-
+![VirtualBoxVM_OfrygJAa1Q.png](https://i.imgur.com/E6IhIMK.png)
     
 
