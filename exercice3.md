@@ -57,7 +57,7 @@ elle permet le routage et l'interconnexion de reseaux differents
 
  C'est l'ensemble des données encapsulées entre l'en-tête et la fin de la trame, qui sont à transporter entre les systèmes.
  C'est la charge utile,Il peut contenir des paquets IP, des trames ARP, selon le type de communication en cours.
- il contient l'information que les utilisateurs souhaitent réellement envoyer et recevoir.
+ il contient l'information que les utilisateurs doivent réellement envoyer et recevoir.
  
  
 10 : Pourquoi les classes IP sont remplacées par le CIDR ?
