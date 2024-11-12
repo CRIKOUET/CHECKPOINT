@@ -55,7 +55,8 @@ elle permet le routage et l'interconnexion de reseaux differents
 
 9 : Dans la trame ethernet, qu'est-ce que le payload?
 
- C'est la charge utile,Il peut contenir des paquets IP, des trames ARP, etc., selon le type de communication en cours.
+ C'est l'ensemble des données encapsulées entre l'en-tête et la fin de la trame, qui sont à transporter entre les systèmes.
+ C'est la charge utile,Il peut contenir des paquets IP, des trames ARP, selon le type de communication en cours.
  il contient l'information que les utilisateurs souhaitent réellement envoyer et recevoir.
  
  
