@@ -5,12 +5,11 @@
 3 : pour ignorer les fichier pdf lors du push
 
   * créer un fichier gitignore dans le depot Git local
-  * editer le fichier gitignore
- 
-  * 
-    .#ignorer les fichiers pdf
+  * editer le fichier gitignore 
+  
+  * #ignorer les fichiers pdf
     
-    *.pdf dans le fichier gitignore
+    *.pdf 
 
 4 : Quelles commandes git utiliser pour fusionner les branches main et test_valide
 
