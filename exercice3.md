@@ -28,21 +28,23 @@
  
  fg %1
 
- 7 : la couche 2 est la couche liaison de données
+ 7 : matériels réseaux sont sur la couche 2 et la couche 3 du modèle OSI et leurs spécificités.
+ 
+ #### la couche 2 est la couche liaison de données
  
 -elle gère les méthodes d’accès au média, gère le contrôle d’erreurs.
 
-  materiels couche 2.:
+  #### materiels couche 2.:
 
   * les commutateurs (switchs) segmentent le reseau et transmettent les données grace aux adresses MAC pour leur acheminement(des données).
   * les ponts permettent de relier des reseaux physiques differents.
   * les cartes reseaux.
 
-la couche 3 est la couche reseau
+#### la couche 3 est la couche reseau
 
 elle permet le routage et l'interconnexion de reseaux differents
   
- materiels couche 3
+ #### materiels couche 3
 
 * les routeurs acheminent les paquets de donnéées entres les reseaux en utilisants les adresses ip et de protocoles de routage.ils créent et gerent des tables de routages pour determiner le meilleur chemin pour les données.
 
