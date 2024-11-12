@@ -4,9 +4,13 @@
 
 3 : pour ignorer les fichier pdf lors du push
 
-  * créer un fichier gitignore dans bash
-  * ouvrir le fichier gitignore
-  * rajouter la ligne *.pdf dans le fichier gitignore
+  * créer un fichier gitignore dans le depot Git local
+  * editer le fichier gitignore
+ 
+  * 
+    .#ignorer les fichiers pdf
+    
+    *.pdf dans le fichier gitignore
 
 4 : Quelles commandes git utiliser pour fusionner les branches main et test_valide
 
@@ -22,11 +26,12 @@
 - echo "Evidemment !"
 
  6 : Il faut utiliser la commande fg suivi du numero du job
+ 
  fg %1
 
  7 : la couche 2 est la couche liaison de données
  
--elle Gère les méthodes d’accès au média, gère le contrôle d’erreurs.
+-elle gère les méthodes d’accès au média, gère le contrôle d’erreurs.
 
   materiels couche 2.:
 
@@ -36,11 +41,11 @@
 
 la couche 3 est la couche reseau
 
--elle permet le routage et l'interconnexion de reseaux differents
+elle permet le routage et l'interconnexion de reseaux differents
   
- materiel couche 3
+ materiels couche 3
 
-* les routeurs acheminent les paquets de donnéées entres les reseaux en utilisants les adresses ipet de protocoles de routage.ils créent et gerent des tables de routages pour determiner le meilleur chemin pour les données.
+* les routeurs acheminent les paquets de donnéées entres les reseaux en utilisants les adresses ip et de protocoles de routage.ils créent et gerent des tables de routages pour determiner le meilleur chemin pour les données.
 
  8 : Quels sont les équivalent PowerShell des commandes bash cd, cp, mkdir, ls.
 
