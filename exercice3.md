@@ -38,7 +38,7 @@
 
   * les commutateurs (switchs) segmentent le reseau et transmettent les données grace aux adresses MAC pour leur acheminement(des données).
   * les ponts permettent de relier des reseaux physiques differents.
-  * les cartes reseaux.
+  * les cartes reseaux sont l'interface entre votre ordinateur et le réseau. Elle reçoivent les données émises par l'ordinateur et les transfèrent vers un autre appareil présent sur le réseau, contrôlent l'ensemble de ces données et les flux échangés.
 
 #### la couche 3 est la couche reseau
 
